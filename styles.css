@@ -1,0 +1,22 @@
+body {
+    background-color: #262626;
+    color: #c9c9c9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a,
+h1,
+h2,
+h3 {
+    color: #ebebeb
+}
+
+.dish__image,
+p {
+    width: 500px
+}
+
+ol,
+ul {
+    width: 464px
+}
