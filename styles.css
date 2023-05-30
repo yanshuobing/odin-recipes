@@ -11,9 +11,23 @@ h3 {
     color: #ebebeb
 }
 
+h1 {
+    text-align: center;
+}
+
 .container,
 .dish__image {
     width: 550px;
     margin: 0 auto;
     box-sizing: border-box
+}
+
+.nav {
+    list-style: none;
+    padding: 0 6px;
+
+}
+
+.nav__item {
+    display: inline-block;
 }
