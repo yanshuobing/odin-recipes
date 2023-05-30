@@ -11,12 +11,9 @@ h3 {
     color: #ebebeb
 }
 
-.dish__image,
-p {
-    width: 500px
-}
-
-ol,
-ul {
-    width: 464px
+.container,
+.dish__image {
+    width: 550px;
+    margin: 0 auto;
+    box-sizing: border-box
 }
